@@ -1,3 +1,6 @@
+![Tech image](https://github.com/user-attachments/assets/0db65ff4-7104-4d3f-b7f9-4492d4f24f9d)
+
+
 ## Hi there 👋 I m Vivek Gupta
 
 <!--
