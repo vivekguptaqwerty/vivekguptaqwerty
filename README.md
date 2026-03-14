@@ -30,5 +30,3 @@ Welcome to my GitHub! I'm currently a second-year engineering student, exploring
 
 - [LinkedIn](https://www.linkedin.com/in/vivek-gupta-4607bb25a/)
 - [GitHub](https://github.com/vivekguptaqwerty)
-
-gdrive link: https://drive.google.com/drive/folders/1UwD5aj0fv_N7OU_e41LeLiZI00wDA1XF?usp=sharing
