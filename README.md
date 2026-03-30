@@ -20,11 +20,6 @@ Welcome to my GitHub! I'm currently a second-year engineering student, exploring
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 </div>
 
-## My Github Stats
- <div align="center">
- <img width="396" alt="{2E6EB199-6BCA-4D82-8C02-BE03B1E8925A}" src="https://github.com/user-attachments/assets/430d70a9-f6c0-4d94-9046-cabaaebfac42">
-   <img width="231" alt="{058115F8-8DC1-4F25-A397-B3D2169A631B}" src="https://github.com/user-attachments/assets/775bb27f-bc68-4146-b982-232ffda9f43e">
-</div> 
 
 ### Connect with Me 🌐
 
